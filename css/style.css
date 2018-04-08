@@ -137,10 +137,6 @@ table {
 
 }
 
-.aboutopen, .skillsopen, .projectsopen{
-  display: none;
-}
-
 .about-toggle, .skills-toggle, .projects-toggle, .profile-pic, .themes i{
   -webkit-tap-highlight-color: transparent;
     cursor: pointer;
